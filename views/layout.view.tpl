@@ -19,6 +19,7 @@
                     <li><a href="index.php?page=home">Home</a></li>
                     <li><a href="index.php?page=prdbacklog">Backlog</a></li>
                     <li><a href="index.php?page=nprdbacklog">New Product Backlog</a></li>
+                    <li><a href="index.php?page=edificios">Edificios</a></li>
                 </ul>
             </div>
             <div class="contenido">

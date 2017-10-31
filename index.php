@@ -28,6 +28,9 @@
         case "nprdbacklog":
         require_once("controllers/nprdbacklog.control.php");
         break;
+        case "edificios":
+        require_once("controllers/edificios.control.php");
+        break;
         default:
             require_once("controllers/error.control.php");
     }
